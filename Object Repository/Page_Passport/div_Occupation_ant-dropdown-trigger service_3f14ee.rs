@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Occupation_ant-dropdown-trigger service_3f14ee</name>
+   <tag></tag>
+   <elementGuidId>81001705-3dda-4c36-994e-8b59f6931cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[8]/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>623a4879-b422-48de-b8dc-466e17d2227e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-trigger serviceProviderDropDown</value>
+      <webElementGuid>f973ab06-68b3-48d3-84be-d0e8caa4fba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row ant-form-item form--item-employment.claims.occupation&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;sc-ktvWjP bKDRBc&quot;]/div[@class=&quot;ant-dropdown-trigger serviceProviderDropDown&quot;]</value>
+      <webElementGuid>0801821c-5562-4aaa-bd41-c0dcec326c14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[8]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>f3e76e64-5319-4e14-a992-a3815c3cfd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occupation'])[1]/following::div[5]</value>
+      <webElementGuid>928df3e5-1fb4-4db5-a786-0a4468a11bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin nhân viên'])[1]/following::div[7]</value>
+      <webElementGuid>6f0c121d-e197-4f3e-9f95-90d6a16e5f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working position'])[1]/preceding::div[1]</value>
+      <webElementGuid>8ee0dfa2-7ef3-411c-abe6-efe3cfe8e088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::div[9]</value>
+      <webElementGuid>56bfcece-7997-4eff-b2be-036dd9353663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>e2aa7b23-5d9d-4288-b60e-0f95e9c0bbd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

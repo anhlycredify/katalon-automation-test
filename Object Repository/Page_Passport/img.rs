@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f61ab655-d114-4a2b-99ff-51e4d9974363</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Dropdown icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div/div/div[2]/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b7fdea74-cd51-4829-aae8-b5cdc25a90db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/DropDown.d6e84b16.svg</value>
+      <webElementGuid>adb16b48-f34b-4e8c-ac91-52ce5f2a40b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dropdown icon</value>
+      <webElementGuid>e5e8874f-5d62-4c1e-a003-9b258eb0ea5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row ant-form-item form--item-current_housing_type&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;sc-ktvWjP bKDRBc&quot;]/div[@class=&quot;ant-dropdown-trigger serviceProviderDropDown&quot;]/img[1]</value>
+      <webElementGuid>ab976a7f-abac-417a-822e-d1cffeb7e70e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>5eb5eaa6-d321-4935-b27e-e5c55ebf7602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dropdown icon']</value>
+      <webElementGuid>b71b4e9b-d92e-4172-8310-cd6a3eeb9c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/img</value>
+      <webElementGuid>fe523aed-a505-44d8-8e94-f042fc7caaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/DropDown.d6e84b16.svg' and @alt = 'Dropdown icon']</value>
+      <webElementGuid>f6144586-a0d4-4990-905e-22a59f8bf435</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

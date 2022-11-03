@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_2,000,000</name>
+   <tag></tag>
+   <elementGuidId>fe1e6cb0-6be3-4a47-8e78-83237ea38035</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-item-option-content > label.sc-bdnxRM.sc-gtsrHT.cjMhOJ.ipjmym</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2,000,000']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2533355a-af5d-43b8-a3bb-f917ba276429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bdnxRM sc-gtsrHT cjMhOJ ipjmym</value>
+      <webElementGuid>5fd8d06d-8c48-4dcf-af7c-7357be5d9ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2,000,000đ</value>
+      <webElementGuid>14d8da9e-f48e-4133-87e2-4037e7af1dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2,000,000&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]/label[@class=&quot;sc-bdnxRM sc-gtsrHT cjMhOJ ipjmym&quot;]</value>
+      <webElementGuid>df04aef2-773b-4a96-baf5-8ae3b8e85255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2,000,000']/div/label</value>
+      <webElementGuid>62c00af7-798e-49b1-a85a-a0c0b081502b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly family income'])[1]/following::label[1]</value>
+      <webElementGuid>3bd0555a-3fd5-4834-91c7-b54160874e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[3]/following::label[3]</value>
+      <webElementGuid>122960e4-6f02-4158-815d-77feef410ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly wage income'])[1]/preceding::label[3]</value>
+      <webElementGuid>8f0ae71c-5b20-4dd2-870c-96d782423ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary reference person'])[1]/preceding::label[5]</value>
+      <webElementGuid>a65a94e1-fafd-4676-9458-49ad3e301733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2,000,000']/parent::*</value>
+      <webElementGuid>5fe91556-200c-4f33-81cd-97995136ecdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>6001c266-643a-41cc-a851-a39c00e747fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '2,000,000đ' or . = '2,000,000đ')]</value>
+      <webElementGuid>8867ff31-93a8-4474-b3f1-2a51b4df17f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

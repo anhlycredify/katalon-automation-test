@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Private house</name>
+   <tag></tag>
+   <elementGuidId>c9908b73-4ba4-4abc-9abd-d45d27165d36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.ant-dropdown-menu-item-active.ant-dropdown-menu-item-only-child</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div/div/div[2]/div/div/div/div[2]/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a30b4df2-2155-437d-898e-e32bddd3db19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu-item ant-dropdown-menu-item-active ant-dropdown-menu-item-only-child</value>
+      <webElementGuid>6129c68a-67fd-4173-afcd-20e92e04bc9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>dfebd923-1a01-4055-a6ea-35756e7be793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d716284e-dd63-4284-acdd-1eb98568bd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-id</name>
+      <type>Main</type>
+      <value>rc-menu-uuid-42501-1-private_house</value>
+      <webElementGuid>c244d93c-d742-4451-8643-a3befd686ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Private house</value>
+      <webElementGuid>c82e7bfe-16fb-45e7-aa98-a9b329d3b457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row ant-form-item form--item-current_housing_type&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;sc-ktvWjP bKDRBc&quot;]/div[2]/div[1]/div[@class=&quot;ant-dropdown ant-dropdown-placement-bottomLeft&quot;]/ul[@class=&quot;ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light&quot;]/li[@class=&quot;ant-dropdown-menu-item ant-dropdown-menu-item-active ant-dropdown-menu-item-only-child&quot;]</value>
+      <webElementGuid>80892b98-fe19-4ad4-824e-abe94f50b3f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div/div/div[2]/div/div/div/div[2]/div/div/ul/li</value>
+      <webElementGuid>2ed49796-9581-4f2b-a65b-d540c5a3bfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Housing type'])[1]/following::li[1]</value>
+      <webElementGuid>dce4582f-d36f-40fd-9832-d7f4f9dabf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your application'])[1]/following::li[1]</value>
+      <webElementGuid>17734243-1788-417f-8314-7ecbeed33cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Parent', &quot;'&quot;, 's house')])[1]/preceding::li[1]</value>
+      <webElementGuid>1e9cbee1-b420-4280-8ce3-007084afdea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>a649b869-0a0c-40d7-841e-ef3468d9d017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Private house' or . = 'Private house')]</value>
+      <webElementGuid>2cd5cb95-2cf9-45df-8b2c-0b5ec07a2c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

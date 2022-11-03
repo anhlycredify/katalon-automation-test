@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Foreign</name>
+   <tag></tag>
+   <elementGuidId>cdfbe554-1ab3-4bad-b877-a2e877e9823d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.ant-dropdown-menu-item-active.ant-dropdown-menu-item-only-child > span.ant-dropdown-menu-title-content > div.sc-fxFQKN.ejoSBg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[4]/div/div[2]/div/div/div/div[2]/div/div/ul/li[4]/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>441f82dc-102f-4434-bcd3-6fd33567d40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fxFQKN ejoSBg</value>
+      <webElementGuid>79bfcfdf-9246-4a0a-bd7c-bcd6eaa77b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Foreign</value>
+      <webElementGuid>b23b0f9a-89ce-48ee-93ff-23e174c22a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row ant-form-item form--item-employment.claims.company_registration_type&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;sc-ktvWjP bKDRBc&quot;]/div[2]/div[1]/div[@class=&quot;ant-dropdown ant-dropdown-placement-topLeft&quot;]/ul[@class=&quot;ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light&quot;]/li[@class=&quot;ant-dropdown-menu-item ant-dropdown-menu-item-active ant-dropdown-menu-item-only-child&quot;]/span[@class=&quot;ant-dropdown-menu-title-content&quot;]/div[@class=&quot;sc-fxFQKN ejoSBg&quot;]</value>
+      <webElementGuid>64b45a02-0e9d-4ed9-a518-bb895a20e249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[4]/div/div[2]/div/div/div/div[2]/div/div/ul/li[4]/span/div</value>
+      <webElementGuid>dd9e3998-e7a5-4733-a84e-77870643001f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[1]</value>
+      <webElementGuid>1e484018-6c30-4951-b059-666c30d55536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited'])[1]/following::div[2]</value>
+      <webElementGuid>a778fb26-0999-4f0e-b089-17fbbcb24cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Household business'])[1]/preceding::div[1]</value>
+      <webElementGuid>eaa6d8c1-4a94-42e0-b710-eb8e3c264a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/div[2]/div/div/ul/li[4]/span/div</value>
+      <webElementGuid>1bc30bd8-194f-41a1-ad6d-2fe2b998fc53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Foreign' or . = 'Foreign')]</value>
+      <webElementGuid>f454a375-e505-4426-bbf5-b065b0fa7299</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

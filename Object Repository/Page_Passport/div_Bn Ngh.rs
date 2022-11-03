@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bn Ngh</name>
+   <tag></tag>
+   <elementGuidId>2117fcbd-5155-4f43-92e2-0c9752d76d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='----item-id----employment.claims.company_address.claims.sublocality']/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8450a4b-0272-4db5-bbe7-fbc21949cabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>e7e7be25-7050-45c1-9251-625e87f29118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bến Nghé</value>
+      <webElementGuid>17b3817e-30b6-45ba-8eba-453a95584a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;----item-id----employment.claims.company_address.claims.sublocality&quot;)/div[2]/div[1]/div[@class=&quot;ant-select-dropdown ant-select-dropdown-placement-bottomRight&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>e38b97f2-c4ec-4918-80b0-7c4a21d1d80a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='----item-id----employment.claims.company_address.claims.sublocality']/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>e3382a06-5a5e-46ec-82f6-4f3742cd386f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[10]/following::div[13]</value>
+      <webElementGuid>5ade64c7-9881-43b6-84ba-ba88d267db79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ward/Commune/Town'])[2]/following::div[19]</value>
+      <webElementGuid>850e27a7-26ee-4a6f-b677-e897ca274c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bến Thành'])[1]/preceding::div[1]</value>
+      <webElementGuid>90c2f0b2-f5ad-4d95-809d-308ec2a2f0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cầu Kho'])[1]/preceding::div[3]</value>
+      <webElementGuid>8db09292-c8e4-4d36-b27c-b3ce9b853a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bến Nghé']/parent::*</value>
+      <webElementGuid>1d156fdb-e500-444b-969d-85ef025771ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>415088c1-3c93-4e51-97ed-1601e20d071e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bến Nghé' or . = 'Bến Nghé')]</value>
+      <webElementGuid>61a5a5d8-adb5-43f7-b500-092005b6c3f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

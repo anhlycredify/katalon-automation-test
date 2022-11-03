@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NHN HNG TRC TR SAUCngCredify</name>
+   <tag></tag>
+   <elementGuidId>cef7a7ba-22d7-44ba-a6e8-12fce9b98130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bnpl-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c38e4031-d44d-4532-8fbb-b9a6fea62189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bnpl-btn</value>
+      <webElementGuid>546630a9-98f5-44fb-95f8-32baee88ed40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NHẬN HÀNG TRƯỚC TRẢ SAUCùng Credify</value>
+      <webElementGuid>38f4f1cf-0cd5-4fc7-a126-cee3e46401c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-iqHYmW sc-iJuVqt jeNtcR hKpvaj&quot;]/div[@class=&quot;sc-jJEKmz jGmrOZ product-list-wrapper&quot;]/div[@class=&quot;product-image-placeholder&quot;]/div[@class=&quot;payment-block&quot;]/div[@class=&quot;button-controls&quot;]/div[@class=&quot;bnpl-btn&quot;]</value>
+      <webElementGuid>1f5a8ab8-bf5a-4b0d-9448-7dfa6f52877e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div</value>
+      <webElementGuid>cc257a46-a70a-4da8-85c4-6bb192431a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[3]/following::div[4]</value>
+      <webElementGuid>e308f8f5-f150-4cdb-8527-23beadad1fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[3]/following::div[12]</value>
+      <webElementGuid>96faa5a4-c11d-4ef7-a83a-6042cd65031d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIẾP TỤC'])[1]/preceding::div[1]</value>
+      <webElementGuid>36aed168-bba1-49c3-9cf0-c1fdf9437210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BNPL with eKYC'])[1]/preceding::div[2]</value>
+      <webElementGuid>fe17ee70-8ecb-4fdf-9e00-e72ebce83bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NHẬN HÀNG TRƯỚC TRẢ SAU']/parent::*</value>
+      <webElementGuid>0edd60f3-45b3-4c76-aa8e-ef0961ab8cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>b5729d91-27d3-466d-9151-d4c5544de12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NHẬN HÀNG TRƯỚC TRẢ SAUCùng Credify' or . = 'NHẬN HÀNG TRƯỚC TRẢ SAUCùng Credify')]</value>
+      <webElementGuid>3b347269-c6f5-4b16-bd97-d56d1347cd97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

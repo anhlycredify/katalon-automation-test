@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid scopesTrace Id 1-6357958f-33588_999a7f</name>
+   <tag></tag>
+   <elementGuidId>81c06d68-682a-4bc1-b838-629164847b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Linh'])[1]/following::div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22a66e64-99ff-40a8-b1c6-80c09ccc8e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1b0539d6-ba72-400c-9728-4def4018c33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-modal-wrap</value>
+      <webElementGuid>8ec3247d-8c6e-4874-bc34-ada9e6efea81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>376c60a7-1fc1-46d3-b79d-85ab55985342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid scopesTrace Id: 1-6357958f-33588d74daf1d2e3b1fecae3Copy Tracer IdClose</value>
+      <webElementGuid>5bad1514-7f3e-429f-af52-2f3ad4e533ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;wf-roboto-n3-active wf-roboto-n4-active wf-roboto-n7-active wf-robotoslab-n5-active wf-robotoslab-n7-active wf-robotoslab-n3-active wf-robotoslab-n4-active wf-roboto-n5-active wf-active wf-oswald-n4-active&quot;]/body[@class=&quot;ant-scrolling-effect&quot;]/div[9]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]</value>
+      <webElementGuid>cd97ee72-607b-4c06-9bd5-1707f4222608</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Linh'])[1]/following::div[9]</value>
+      <webElementGuid>00b4d1c0-39fd-4fb6-981d-8ab78cd7ebc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phủ Thông'])[1]/following::div[11]</value>
+      <webElementGuid>3d3601d6-5122-4723-a1c0-193ad552c777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]</value>
+      <webElementGuid>d7c6ccdf-9aa2-4bdf-ba61-da97384f6180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invalid scopesTrace Id: 1-6357958f-33588d74daf1d2e3b1fecae3Copy Tracer IdClose' or . = 'Invalid scopesTrace Id: 1-6357958f-33588d74daf1d2e3b1fecae3Copy Tracer IdClose')]</value>
+      <webElementGuid>adb153df-248e-4ee0-b28f-2a4e104c9397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

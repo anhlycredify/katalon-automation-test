@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__ant-checkbox-wrapper ant-checkbox-wr_417734</name>
+   <tag></tag>
+   <elementGuidId>92d42769-a7df-4f7a-afe3-a0f95dc014c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div[2]/div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e51a09de-0e37-4ed9-b815-cb6897e217dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-wrapper ant-checkbox-wrapper-checked sc-higWrZ bFdOkh</value>
+      <webElementGuid>42d64b83-91d2-471b-8471-ff72619b3bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-iqHYmW sc-iJuVqt jeNtcR hKpvaj&quot;]/div[@class=&quot;sc-jJEKmz jGmrOZ product-list-wrapper&quot;]/div[@class=&quot;product-image-placeholder&quot;]/div[@class=&quot;sc-gWHigU kDjMZY product-content-wrapper&quot;]/div[@class=&quot;sc-cBNeex hZmilT product-content&quot;]/div[@class=&quot;sc-citxvW bfngsU product-block-wrapper&quot;]/div[@class=&quot;product-block&quot;]/div[@class=&quot;product-row controls&quot;]/div[@class=&quot;sc-jcVcSv fxMKgB&quot;]/label[@class=&quot;ant-checkbox-wrapper ant-checkbox-wrapper-checked sc-higWrZ bFdOkh&quot;]</value>
+      <webElementGuid>20b6c195-b333-486a-9f8d-686f8b9a20b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div[2]/div[3]/div/label</value>
+      <webElementGuid>577bc131-b553-4d34-ba1b-39b1e08f2bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[2]/following::label[1]</value>
+      <webElementGuid>40ac151f-7caa-41e7-972a-41410f8ff872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marvelon Bayer (H/21v)'])[1]/following::label[1]</value>
+      <webElementGuid>0fcde2df-ace9-4268-b4bb-ac91b80ad656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[2]/preceding::label[1]</value>
+      <webElementGuid>14fb82a2-5823-4123-a402-ca652fc6c158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panadol Extra Gsk (H/180v)'])[1]/preceding::label[1]</value>
+      <webElementGuid>07622775-ca28-486f-a009-1aa8bb320fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/label</value>
+      <webElementGuid>cbb8462a-6c4b-4b24-a281-6da357081b65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

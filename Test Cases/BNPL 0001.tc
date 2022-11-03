@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>WEB SDK SAMPLE -> PASSPORT (redeem)</description>
+   <name>BNPL 0001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea1ba53-116a-4d4a-9420-785b8147ed7b</testCaseGuid>
+</TestCaseEntity>

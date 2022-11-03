@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contributor</name>
+   <tag></tag>
+   <elementGuidId>28db9333-ce83-4645-afe1-f75d5c982381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.ant-dropdown-menu-item-active.ant-dropdown-menu-item-only-child > span.ant-dropdown-menu-title-content > div.sc-fxFQKN.ejoSBg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[7]/div/div[2]/div/div/div/div[2]/div/div/ul/li/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fb9bc21-6427-4df6-bf6f-b54167e5a645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fxFQKN ejoSBg</value>
+      <webElementGuid>4e723642-3436-43ec-8b5f-2f461c12688e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contributor</value>
+      <webElementGuid>2f9a90c0-8fa9-41c2-9bfb-3fbadec7ffb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row ant-form-item form--item-employment.claims.labor_contract_type ant-form-item-has-success&quot;]/div[@class=&quot;ant-col ant-col-24 ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;sc-ktvWjP bKDRBc&quot;]/div[2]/div[1]/div[@class=&quot;ant-dropdown ant-dropdown-placement-bottomLeft&quot;]/ul[@class=&quot;ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light&quot;]/li[@class=&quot;ant-dropdown-menu-item ant-dropdown-menu-item-active ant-dropdown-menu-item-only-child&quot;]/span[@class=&quot;ant-dropdown-menu-title-content&quot;]/div[@class=&quot;sc-fxFQKN ejoSBg&quot;]</value>
+      <webElementGuid>3c1109d9-e72e-4adc-bed6-c6c6c4d2e123</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div[2]/div[2]/div[7]/div/div[2]/div/div/div/div[2]/div/div/ul/li/span/div</value>
+      <webElementGuid>ed2b3c6c-f5c2-4048-8c17-48534392f57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indefinite term'])[1]/following::div[4]</value>
+      <webElementGuid>d573bbc4-110a-4ada-936f-0b39c7ca72df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labor contract type'])[1]/following::div[9]</value>
+      <webElementGuid>c15fa047-9e52-4a91-a13a-02802e81271b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Probationary'])[1]/preceding::div[1]</value>
+      <webElementGuid>90a91fad-e209-47c6-bb25-a60285f03caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/div[2]/div/div/ul/li/span/div</value>
+      <webElementGuid>1da5a8c5-595c-4be5-80fa-95dea8ab613d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contributor' or . = 'Contributor')]</value>
+      <webElementGuid>972e75a4-dc29-4101-bbcc-60f668dd80ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

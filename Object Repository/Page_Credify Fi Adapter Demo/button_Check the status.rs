@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check the status</name>
+   <tag></tag>
+   <elementGuidId>42eeb876-51c2-40fa-8263-51d97d759763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sc-fmRtwQ.sc-fmrZth.kLnJyV.dGyRve</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>23b6186d-d35a-473e-828b-179948b35b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fmRtwQ sc-fmrZth kLnJyV dGyRve</value>
+      <webElementGuid>252714cb-d8f6-4267-97f5-a14bbd27d2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check the status </value>
+      <webElementGuid>413130ac-04f6-43da-949e-27c670d0cf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;sc-jgbSNz iVOydx wrapper&quot;]/div[@class=&quot;sc-iNWwEs dtfFIX footer&quot;]/div[@class=&quot;sc-gkJlnC iJXrVx&quot;]/button[@class=&quot;sc-fmRtwQ sc-fmrZth kLnJyV dGyRve&quot;]</value>
+      <webElementGuid>eeee7334-9568-49b6-9b70-9eb3100d0578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div/button</value>
+      <webElementGuid>e3c28d8e-6870-4f93-b8ff-6c011dc8e928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More information about Credify'])[1]/following::button[1]</value>
+      <webElementGuid>d655d9e3-8e57-4f0b-ba30-3ff428b6ed9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I need to stay in this screen?'])[1]/following::button[1]</value>
+      <webElementGuid>d459c7b7-cbc5-4b4d-82c0-2751805c6310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check the status']/parent::*</value>
+      <webElementGuid>b763cd39-e2d7-4128-ba1d-8d4f77ac79d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>794cb31b-984f-4079-8184-5998617c5976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Check the status ' or . = 'Check the status ')]</value>
+      <webElementGuid>c0b989fc-b150-43be-8c4b-0bddc1585cdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

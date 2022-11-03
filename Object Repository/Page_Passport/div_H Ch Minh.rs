@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_H Ch Minh</name>
+   <tag></tag>
+   <elementGuidId>2a945386-d58a-40c5-b0be-84bd72467211</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-item.ant-select-item-option.ant-select-item-option-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='----item-id----employment.claims.company_address.claims.region']/div[2]/div/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c718bbd7-ae63-4f97-9443-6bac4a0764dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>65231426-52a5-49cc-8ec1-dbb65281692c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item ant-select-item-option ant-select-item-option-active</value>
+      <webElementGuid>7cc55113-abe4-457f-8ad1-9c6f6c9b43d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hồ Chí Minh</value>
+      <webElementGuid>5295c44b-5a34-4b96-8d4e-f4da2107ea98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hồ Chí Minh</value>
+      <webElementGuid>6af54b51-e52f-44f1-85ac-d3ad350fdbe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;----item-id----employment.claims.company_address.claims.region&quot;)/div[2]/div[1]/div[@class=&quot;ant-select-dropdown ant-select-dropdown-placement-bottomRight&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active&quot;]</value>
+      <webElementGuid>45f08061-6764-4eca-b324-e9e02cbafc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='----item-id----employment.claims.company_address.claims.region']/div[2]/div/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>a4f234ba-5f11-46ea-bedc-3640b41fb0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hậu Giang'])[1]/following::div[1]</value>
+      <webElementGuid>8790d831-5e43-47ad-a6c9-e0a6f05d26a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[10]/following::div[15]</value>
+      <webElementGuid>5edc84b8-695d-4605-90fb-4e95ecd9a5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hòa Bình'])[1]/preceding::div[2]</value>
+      <webElementGuid>322d7c46-a6ff-4a96-859c-d7e649147895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>fd7965a4-4671-41a4-9c5c-cdf689975a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Hồ Chí Minh' and (text() = 'Hồ Chí Minh' or . = 'Hồ Chí Minh')]</value>
+      <webElementGuid>be7242d8-4750-4ebb-a5ce-7725eb3775fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

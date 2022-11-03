@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Married</name>
+   <tag></tag>
+   <elementGuidId>6cb8a8d2-573e-4523-acfb-3558c9150422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-borderless.sc-kLojOw.cvTVNg.ant-select-single.ant-select-show-arrow.ant-select-open > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='--item-id--marital_status']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e043eb32-a2ab-438e-9754-1c3c9e764fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>544d424d-a0ab-4de9-9663-b4add935bc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Married</value>
+      <webElementGuid>7d579fef-3b0d-4f94-bde1-38d855aeab9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;--item-id--marital_status&quot;)/div[@class=&quot;ant-select ant-select-borderless sc-kLojOw cvTVNg ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>71c6a9d7-185d-47a2-9c25-99b48a7a9d7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='--item-id--marital_status']/div/div/span[2]</value>
+      <webElementGuid>f901334e-1411-4b91-b04f-30267480caab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital status'])[1]/following::span[2]</value>
+      <webElementGuid>b2e0056d-35c5-471c-a34b-df04386743f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor of Philosophy'])[1]/following::span[3]</value>
+      <webElementGuid>28a3c6ad-c488-40da-93e7-c2d05cbb66bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='single'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e57b2b0-ff9f-4ab1-a052-99f6d79a8ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/div/span[2]</value>
+      <webElementGuid>dbf73f14-ee20-4c2e-b793-6d600b9d5bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Married' or . = 'Married')]</value>
+      <webElementGuid>0aafce5b-21da-4ffe-b641-60d368b68b78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

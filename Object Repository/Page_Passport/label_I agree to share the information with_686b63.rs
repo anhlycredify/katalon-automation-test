@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree to share the information with_686b63</name>
+   <tag></tag>
+   <elementGuidId>43c20b98-755e-4f89-b16a-320d81c2430c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ant-checkbox-wrapper.sc-dlnjwi.iIHoOe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[10]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b163848d-0749-48da-9789-1c48508f4362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-wrapper sc-dlnjwi iIHoOe</value>
+      <webElementGuid>fb8f2ed8-88ca-4e41-8ddb-ab1d85cb4743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to share the information with BNPL provider 1 for applying for the product.</value>
+      <webElementGuid>958097f7-fa5f-4889-8e55-551a1ce50873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-col sc-hUhoqY hOYYZG&quot;]/div[@class=&quot;ant-row&quot;]/label[@class=&quot;ant-checkbox-wrapper sc-dlnjwi iIHoOe&quot;]</value>
+      <webElementGuid>24791d19-ca47-4d63-acfa-15358285398c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[10]/div/label</value>
+      <webElementGuid>a4f2c395-1147-4a10-833b-e84139b09797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::label[1]</value>
+      <webElementGuid>898eb910-c98b-452c-9aec-65988d20220b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save all inputs with a password and reuse them next time.'])[1]/following::label[1]</value>
+      <webElementGuid>0578b1f0-eeec-4add-9e4f-e061a203d2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you do not agree, the application will not be made and NONE of your information will be shared.'])[1]/preceding::label[1]</value>
+      <webElementGuid>23452574-2f97-4eaf-b611-268f0caa4704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/label</value>
+      <webElementGuid>ab7bb6a1-b5df-41ad-8d76-fca7467323b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to share the information with BNPL provider 1 for applying for the product.' or . = 'I agree to share the information with BNPL provider 1 for applying for the product.')]</value>
+      <webElementGuid>43eadf23-91aa-48d6-aed8-9a9edfe78463</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

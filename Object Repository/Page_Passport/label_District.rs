@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_District</name>
+   <tag></tag>
+   <elementGuidId>b22d350c-7d8c-4649-840d-a6e97558c55d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-row.ant-form-item.Item-Style.form--item-locality.ant-form-item-has-success > div.ant-col.ant-form-item-label > label.ant-form-item-required > label.sc-bdnxRM.sc-kEqXSa.cjMhOJ.dILNCi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div/div[2]/div[6]/div/div[2]/div/label/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ed726006-e1ee-430c-a625-e50a75463f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bdnxRM sc-kEqXSa cjMhOJ dILNCi</value>
+      <webElementGuid>f6ae59ee-5259-489c-ace5-f896a2ee3e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>District</value>
+      <webElementGuid>549aa89c-884c-4f91-93e1-80a4e0db826c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-cSiAOC bojiJp dHLXvA cBTyES&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-cjzNjn fKyDrK&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-col ant-col-24 appForm-group&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-col ant-col-24 sc-iueNdr enpikb&quot;]/div[@class=&quot;ant-row ant-form-item Item-Style form--item-locality ant-form-item-has-success&quot;]/div[@class=&quot;ant-col ant-form-item-label&quot;]/label[@class=&quot;ant-form-item-required&quot;]/label[@class=&quot;sc-bdnxRM sc-kEqXSa cjMhOJ dILNCi&quot;]</value>
+      <webElementGuid>20efaf95-4f94-48f7-96b0-7514dccaa877</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[8]/form/div/div[2]/div[6]/div/div[2]/div/label/label</value>
+      <webElementGuid>97245518-25c6-490b-a42d-ad1b8107abe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạc Liêu'])[1]/following::label[2]</value>
+      <webElementGuid>9081fca6-665b-44ce-9ef8-a1c4864ae433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Province/City'])[1]/following::label[2]</value>
+      <webElementGuid>abe44cb0-0e89-4088-80e6-648144c9f860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồng Dân'])[1]/preceding::label[1]</value>
+      <webElementGuid>21de7e8f-ede1-4acc-bffc-f2f614264ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street'])[1]/preceding::label[1]</value>
+      <webElementGuid>1db50c7b-cca3-44c9-9e35-8503112b57a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='District']/parent::*</value>
+      <webElementGuid>af1ebb93-c281-4d79-b487-a8acf1ec4928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/label</value>
+      <webElementGuid>67a6d75c-b334-43c6-9085-5da2ecc97fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'District' or . = 'District')]</value>
+      <webElementGuid>3c42343e-f045-4cbe-b4a3-12d0742e55be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

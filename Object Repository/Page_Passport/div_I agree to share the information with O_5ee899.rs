@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I agree to share the information with O_5ee899</name>
+   <tag></tag>
+   <elementGuidId>50274221-21fb-4074-9d8a-c9391b3592b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.sc-FRrlG.cIjgB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credify-scrollable-content']/div/div/div[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42e29172-3fb9-4280-b4b8-c0f8697b0163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-col sc-FRrlG cIjgB</value>
+      <webElementGuid>ddd41b56-5a59-4e57-b260-f23f640308d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to share the information with OCB- ComB for applying for the product.If you do not agree, the application will not be made and NONE of your information will be shared.</value>
+      <webElementGuid>a18713d5-82f4-45dd-9e8f-cd63ad280c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credify-scrollable-content&quot;)/div[@class=&quot;sc-iJCRrE sc-giAqHp sc-hHSjgo bojiJp dHLXvA bURDyX&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-col sc-FRrlG cIjgB&quot;]</value>
+      <webElementGuid>61516c55-a678-42ac-9d50-fa6aac7ccbf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credify-scrollable-content']/div/div/div[16]</value>
+      <webElementGuid>de6d1a2f-4eb3-4b89-b0b0-ab791b6a52a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[1]</value>
+      <webElementGuid>4362d862-14e4-443e-87f3-ec97cc061ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save all inputs with a password and reuse them next time.'])[1]/following::div[2]</value>
+      <webElementGuid>9c65389d-5e08-4037-9d5b-0e75242e2686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]</value>
+      <webElementGuid>8956dc95-6720-42d1-abce-bbe4a2ceb612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I agree to share the information with OCB- ComB for applying for the product.If you do not agree, the application will not be made and NONE of your information will be shared.' or . = 'I agree to share the information with OCB- ComB for applying for the product.If you do not agree, the application will not be made and NONE of your information will be shared.')]</value>
+      <webElementGuid>087feb5f-6cbf-4285-a76f-669dd7b840df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
